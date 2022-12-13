@@ -1,0 +1,50 @@
+
+.section{
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  flex-basis: 100%;
+  
+}
+
+
+
+.sec-gauche{
+    text-align: left;
+    font-family : Verdana, Geneva, sans-serif;
+    flex: 1 150px;
+    padding: 16px;
+    height: 250px;
+
+}
+
+h1{
+    color: #F1273b;
+    font-size: 15px;
+    align-items: center;
+    font-family : Verdana, Geneva, sans-serif;
+    border: solid;
+    text-align: center;
+}
+
+
+.sec-droite{
+    text-align: right;
+    font-family : Verdana, Geneva, sans-serif;
+    flex: 2 150px;
+    justify-content: space-around;
+
+
+    
+}
+
+.li {  font-family: Georgia, "Times New Roman",
+    Times, serif;
+
+}
+
+.info {
+    text-align: left;
+    
+}
